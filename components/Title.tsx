@@ -3,5 +3,9 @@ type TitleProps = {
 };
 
 export default function Title({ children }: TitleProps) {
-  return <h1 className="font-bold text-veryDarkGrayishBlue">{children}</h1>;
+  return (
+    <h1 className="font-bold text-veryDarkGrayishBlue lg:text-xl">
+      {children}
+    </h1>
+  );
 }
