@@ -15,7 +15,11 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body className={manrope.className}>{children}</body>
+      <body
+        className={`${manrope.className} bg-lightGrayishBlue flex h-screen w-screen items-center justify-center`}
+      >
+        {children}
+      </body>
     </html>
   );
 }
