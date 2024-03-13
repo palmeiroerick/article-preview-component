@@ -18,12 +18,12 @@ Users should be able to:
 
 ## Screenshot
 
-![]()
+![Screen Shot 2024-03-13 at 13 37 11](https://github.com/palmeiroerick/article-preview-component/assets/148393698/5ea88a94-7653-4f6c-8932-b9a6cae25e38)
 
 ## Links
 
-- [Solution]()
-- [Live Site]()
+- [Solution](https://github.com/palmeiroerick/article-preview-component/)
+- [Live Site](https://article-preview-component-woad-pi.vercel.app/)
 
 ## Built with
 
