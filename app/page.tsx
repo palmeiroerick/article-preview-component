@@ -6,7 +6,7 @@ import ShareProvider from "@/context/ShareContext";
 
 export default function Home() {
   return (
-    <main className="w-80 overflow-hidden rounded-xl bg-white shadow-xl lg:flex lg:h-64 lg:w-[680px]">
+    <main className="w-80 rounded-xl bg-white shadow-xl lg:flex lg:h-64 lg:w-[680px]">
       <Drawers />
       <section className="flex flex-col gap-6 lg:gap-0 lg:justify-between">
         <div className="flex flex-col gap-4 p-8 pb-0">
